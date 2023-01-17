@@ -22,7 +22,7 @@ GitHub helps you secure your supply chain, from understanding the dependencies i
 
 endstep0-->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Review and add dependencies using dependency graph</h2></summary>
 
 _Welcome to "Secure your repository's supply chain"! :wave:_
@@ -72,7 +72,7 @@ GitHub offers a range of features to help you understand the dependencies in you
 **Wait about 20 seconds then refresh this page for the next step**
 </details>
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Enable and view Dependabot alerts</h2></summary>
 
 _Nice work! :tada: You added and viewed a dependency with `dependency graph`!_
