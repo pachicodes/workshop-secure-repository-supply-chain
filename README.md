@@ -72,7 +72,7 @@ GitHub offers a range of features to help you understand the dependencies in you
 **Wait about 20 seconds then refresh this page for the next step**
 </details>
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Enable and view Dependabot alerts</h2></summary>
 
 _Nice work! :tada: You added and viewed a dependency with `dependency graph`!_
@@ -120,7 +120,7 @@ Let's see how this would work by using Dependabot to create a pull request for o
  
 </details>
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Enable and trigger Dependabot security updates</h2></summary>
 
 _Nice work enabling, viewing, and creating Dependabot alerts :sparkles:_
