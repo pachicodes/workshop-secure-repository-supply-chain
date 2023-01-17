@@ -120,7 +120,7 @@ Let's see how this would work by using Dependabot to create a pull request for o
  
 </details>
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Enable and trigger Dependabot security updates</h2></summary>
 
 _Nice work enabling, viewing, and creating Dependabot alerts :sparkles:_
@@ -143,7 +143,7 @@ We manually created the pull request for the `Prototype Pollution in minimist` a
 
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Enable and trigger Dependabot version updates</h2></summary>
 
 _Nicely done!_ :partying_face:
