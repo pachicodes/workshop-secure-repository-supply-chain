@@ -143,7 +143,7 @@ We manually created the pull request for the `Prototype Pollution in minimist` a
 
 </details>
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Enable and trigger Dependabot version updates</h2></summary>
 
 _Nicely done!_ :partying_face:
@@ -170,7 +170,7 @@ Let's see how this works!
 
 </details>
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
