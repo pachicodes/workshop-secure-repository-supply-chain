@@ -1,6 +1,6 @@
 # Secure your repository's supply chain
 
-<!--step0-->
+<!--step0
 
 GitHub helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
 
@@ -20,9 +20,9 @@ GitHub helps you secure your supply chain, from understanding the dependencies i
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Review and add dependencies using dependency graph</h2></summary>
 
 _Welcome to "Secure your repository's supply chain"! :wave:_
